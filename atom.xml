@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zj21777.github.io</id>
-    <title>总得记得点什么</title>
-    <updated>2021-02-24T03:06:28.453Z</updated>
+    <title>记忆它总是慢慢地累积</title>
+    <updated>2021-04-08T00:05:18.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zj21777.github.io"/>
     <link rel="self" href="https://zj21777.github.io/atom.xml"/>
-    <subtitle>为了不忘却</subtitle>
+    <subtitle>太容易忘记</subtitle>
     <logo>https://zj21777.github.io/images/avatar.png</logo>
     <icon>https://zj21777.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 总得记得点什么</rights>
+    <rights>All rights reserved 2021, 记忆它总是慢慢地累积</rights>
+    <entry>
+        <title type="html"><![CDATA[2021的三八节]]></title>
+        <id>https://zj21777.github.io/post/2021-de-san-ba-jie/</id>
+        <link href="https://zj21777.github.io/post/2021-de-san-ba-jie/">
+        </link>
+        <updated>2021-03-09T01:13:50.000Z</updated>
+        <content type="html"><![CDATA[<p>三八节，妇女的节日，这个节日怎么来的呢，我记得是一战结束后，为了保护妇女和儿童这一弱势群体而发起了这一节日。在中国，妇女地位相比中国任何时候，如今的妇女更加独立自主且强势。在看一个电视访谈节目，主持人与二名出色的女人，其中一个也是电台主持人吧，另一个不认识，二人说了很多，基本都是说为了家庭拼博，为了国家拼博之类的，仿佛苦大仇深一般。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年2月25日天气雨]]></title>
+        <id>https://zj21777.github.io/post/2021-nian-2-yue-25-ri-xiao-yu/</id>
+        <link href="https://zj21777.github.io/post/2021-nian-2-yue-25-ri-xiao-yu/">
+        </link>
+        <updated>2021-02-25T00:54:45.000Z</updated>
+        <content type="html"><![CDATA[<p>又是一天开始，今天有什么记得呢！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年2月24日天气晴]]></title>
         <id>https://zj21777.github.io/post/2021-nian-2-yue-24-ri-tian-qi-qing/</id>
